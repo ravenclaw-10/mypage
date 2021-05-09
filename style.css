@@ -1,12 +1,12 @@
 body {
-    background-color:#d8e3e7;
+    background-color:#e8e8e8;
     
 }
 h1 {
-    color:#126e82;
+    color:#f05454;
 }
 h2 {
-    color:#51c4d3;
+    color:#30475e;
 }
 hr {
     border-style: dotted none none;
@@ -15,11 +15,11 @@ hr {
     width:5%
 }
 ul {
-    color:#132c33;
+    color:#000000;
 }
 table {
-    color:#132c33;
+    color:#000000;
 }
 form {
-    color:#132c33;
+    color:#000000;
 }
